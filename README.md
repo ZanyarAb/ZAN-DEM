@@ -1,6 +1,6 @@
 # ZAN-DM
 
-PornHub Direct Link Extractor Tool
+PHub Direct Link Extractor Tool
 
 ## Requirements
 
