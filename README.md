@@ -24,8 +24,9 @@ pip install -r requirements.txt
 python zan_dm.py
 ```
 Then enter the video link when prompted.
-
-##⚠️ Disclaimer
+...
+## Disclaimer 
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 This tool is for educational purposes only.  
 Usage of this software for downloading copyrighted or unauthorized content is strictly discouraged.  
