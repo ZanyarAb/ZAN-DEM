@@ -18,14 +18,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
-### Method 1: Direct execution with link
-
-```
-python zan_dm.py https://www.pornhub.com/view_video.php?viewkey=XXXXXXXX
-```
-
-### Method 2: Run the program and enter the link
+### Method 1 : Run the program and enter the link
 
 ```
 python zan_dm.py
