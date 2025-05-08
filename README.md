@@ -28,7 +28,7 @@ Then enter the video link when prompted.
 
 ## Description
 
-This script extracts the direct download link (MP4) of the video which you can use in your browser or download manager software like IDM.
+This script extracts the direct download link  of the PHUB videos 
 
 ## Important Note
 
